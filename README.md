@@ -19,6 +19,8 @@ I'm a PhD student at **Universität Hamburg** working on **fast simulation of pa
 #### Code
 
 - [**CaloHadronic**](https://github.com/FLC-QU-hep/CaloHadronic): diffusion model for hadronic showers in the ECal and HCal
+- [**SPADE**](https://github.com/uhh-pd-ml/SPADE): split-and-delay embeddings for autoregressive high-granularity calorimeter simulation
+- [**step2point**](https://github.com/fast-sim/step2point): compressing calorimeter shower data (x, y, z, E) into point clouds while preserving key physics observables
 - **LayerFM** and a one-step latent mean-flow generator for pion showers with time: coming with the paper
 
 #### Papers
