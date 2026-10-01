@@ -6,7 +6,6 @@
 
 I'm a PhD student at **Universität Hamburg** working on **fast simulation of particle showers with deep generative models**: diffusion, flow matching and one-step generators for hadronic showers in highly granular calorimeters, as point clouds with energy and time.
 
-[Website](https://mmozzanica5.github.io) ·
 [INSPIRE](https://inspirehep.net/literature?q=a%20Mozzanica%2C%20Martina) ·
 [ORCID](https://orcid.org/0009-0002-1111-6247) ·
 [Hugging Face](https://huggingface.co/mmozzani) ·
