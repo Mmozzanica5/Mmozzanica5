@@ -9,8 +9,12 @@ I'm a PhD student at **Universität Hamburg** working on **fast simulation of pa
 [INSPIRE](https://inspirehep.net/literature?q=a%20Mozzanica%2C%20Martina) ·
 [ORCID](https://orcid.org/0009-0002-1111-6247) ·
 [Hugging Face](https://huggingface.co/mmozzani) ·
-[LinkedIn](https://www.linkedin.com/in/martina-mozzanica-20017b202/) ·
-[FLC-QU-hep](https://github.com/FLC-QU-hep)
+[LinkedIn](https://www.linkedin.com/in/martina-mozzanica-20017b202/)
+
+**Organizations:**
+[FLC-QU-hep](https://github.com/FLC-QU-hep) ·
+[uhh-pd-ml](https://github.com/uhh-pd-ml) ·
+[fast-sim](https://github.com/fast-sim)
 
 #### Code
 
