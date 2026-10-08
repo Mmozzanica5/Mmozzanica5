@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Three 90 GeV pion showers from Geant4, seen from the side as they cross the calorimeter" width="100%">
+  <img src="banner.png" alt="Martina Mozzanica, fast generative simulation of particle showers: three 90 GeV Geant4 pion showers coloured by hit time" width="100%">
 </p>
 
 ### Hi, I'm Martina 👋
