@@ -25,8 +25,8 @@ I'm a PhD student at **Universität Hamburg** working on **fast simulation of pa
 </a>
 
 <p align="center">
-  <a href="https://mmozzanica5.github.io"><img src="https://img.shields.io/badge/Visit-mmozzanica5.github.io-635bff?style=for-the-badge&labelColor=ff4f9a" alt="Visit mmozzanica5.github.io"></a>
-  <a href="https://mmozzanica5.github.io/CV_A4.pdf"><img src="https://img.shields.io/badge/Download-CV-00b383?style=for-the-badge&labelColor=00b8e6" alt="Download CV"></a>
+  <a href="https://mmozzanica5.github.io"><img src="https://img.shields.io/badge/Visit-mmozzanica5.github.io-194e89?style=for-the-badge&labelColor=c05719" alt="Visit mmozzanica5.github.io"></a>
+  <a href="https://mmozzanica5.github.io/CV_A4.pdf"><img src="https://img.shields.io/badge/Download-CV-325e90?style=for-the-badge&labelColor=c05719" alt="Download CV"></a>
 </p>
 
 #### Code
