@@ -17,6 +17,16 @@ I'm a PhD student at **Universität Hamburg** working on **fast simulation of pa
 [uhh-pd-ml](https://github.com/uhh-pd-ml) ·
 [fast-sim](https://github.com/fast-sim)
 
+#### Personal website
+
+<a href="https://mmozzanica5.github.io">
+  <img src="website-preview.png" alt="Preview of my personal website: fast simulation for particle physics with deep learning" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://mmozzanica5.github.io"><img src="https://img.shields.io/badge/Visit-mmozzanica5.github.io-635bff?style=for-the-badge&labelColor=ff4f9a" alt="Visit mmozzanica5.github.io"></a>
+</p>
+
 #### Code
 
 - [**CaloHadronic**](https://github.com/FLC-QU-hep/CaloHadronic): diffusion model for hadronic showers in the ECal and HCal
